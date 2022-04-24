@@ -1,7 +1,7 @@
 Hi 👋 My name is MUSTAFA FATIH SEN
 ==================================
 
-Python developer
+Python developer 
 ----------------
 
 I have been learning code for 7 years. I start with C language then I moeved on the artifical intelligence with python.
